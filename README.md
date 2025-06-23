@@ -19,4 +19,4 @@ This project explores the relationship between trader behavior and Bitcoin marke
 
 ## Author
 **Nikhil Rana**  
-Undergraduate at NIT Hamirpur  
+Pre-final year student at NIT Hamirpur  
